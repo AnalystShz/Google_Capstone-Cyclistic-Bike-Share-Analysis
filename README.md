@@ -120,6 +120,8 @@ Micrsoft Excel
 - Created a column called ride_length
 - Created a column called day_of_week
 - Filtered out null and inconsistent values in ride length and deleted rows
+- Merged all spreadsheets to have a full year view
+- Visualised the data to discover insights
 
 
 
