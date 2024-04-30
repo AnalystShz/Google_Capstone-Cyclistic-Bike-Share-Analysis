@@ -136,8 +136,9 @@ Customers who purchase single-ride or full-day passes are referred to as casual 
 Customers who purchase annual memberships are Cyclistic members. The comparison of the bar chart reveals that Annual Members have commuted most throughout the week which gives us an indication they use the bikes as a mode to commute to work and leisure. There is a dip on Sundays ride count and an increase from Wednesday to Friday.
 
 On the right side of the visual we have the daily ride count of Casual Riders. It is obvious that they prefer to ride mostly on Saturday. The riders in this category prefers to use the service more during the weekend but few commuters have utilized it even during weekdays.
-![Screenshot 2024-03-31 213214](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/16771da1-0d3b-40c3-8eca-2be763a990d9)
-![Screenshot 2024-03-31 213251](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/322e149f-8f6a-4ceb-b14c-12a8aed534ca)
+
+
+![Screenshot 2024-03-31 212319](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/7a1df75b-f076-4db8-ac3f-6320c981a201)
 
 
 
