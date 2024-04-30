@@ -136,18 +136,34 @@ Customers who purchase single-ride or full-day passes are referred to as casual 
 Customers who purchase annual memberships are Cyclistic members. The comparison of the bar chart reveals that Annual Members have commuted most throughout the week which gives us an indication they use the bikes as a mode to commute to work and leisure. There is a dip on Sundays ride count and an increase from Wednesday to Friday.
 
 On the right side of the visual we have the daily ride count of Casual Riders. It is obvious that they prefer to ride mostly on Saturday. The riders in this category prefers to use the service more during the weekend but few commuters have utilized it even during weekdays.
-![Screenshot 2024-03-31 212319](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/d00646b5-af76-490d-b05b-1b16ce3fc27d)
+![Screenshot 2024-03-31 213214](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/16771da1-0d3b-40c3-8eca-2be763a990d9)
+![Screenshot 2024-03-31 213251](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/322e149f-8f6a-4ceb-b14c-12a8aed534ca)
+
 
 
 
 
 - Secondly, Observing the commute rides on a monthly basis for the two user categories displays the busiest months as July, August and September. The comparison of the monthly figures reveal that the Annual Members prefer to commute using Cyclistic Bikes *than* Casual Riders. 
 
-![Screenshot 2024-03-31 192450](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/3c7b8092-fa31-453e-8cda-ff33d3ff9193)
+## ![Screenshot 2024-03-31 220346](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/9d9d4771-1d9b-4e94-87f2-7b3c4b57a563)
+## ![Screenshot 2024-03-31 220501](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/4f5ace15-2f46-43fc-8efd-fd7136856154)
+
+
 
 
 - Thirdly, We have analysed the per hour rider count in the busiest months which are July, August and September. Annual Members and Casual Riders Commute most at 5pm. This gives us an indication that the service users prefer this mode of travel especially after work. We can also see that there is a pattern that the bar chart follows between 4pm to 6pm. Here we can come to the conclusion that the riders from both categories commute between 4pm to 6pm.
 ![Screenshot 2024-03-31 193153](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/b1500598-2068-44ff-b78b-f321f878daff)
+
+
+![Screenshot 2024-03-31 213515](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/fe059ba6-1542-40ff-b19a-4a41b00cca00)
+
+
+![Screenshot 2024-03-31 213007](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/da9b5416-2764-4091-bb9a-adb5bab60126)
+![Screenshot 2024-03-31 213051](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/f14ae1bc-f994-414e-aaeb-bbcd645d2730)
+
+
+
+
 
 
 
