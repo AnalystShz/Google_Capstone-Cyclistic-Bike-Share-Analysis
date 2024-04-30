@@ -169,6 +169,12 @@ On the right side of the visual we have the daily ride count of Casual Riders. I
 
 ![Screenshot 2024-04-01 124917](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/d14987da-5d7c-4a9b-b27d-957abe56e88c)
 
+![Screenshot 2024-03-31 215921](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/2b4b9f0a-b3d5-4b44-9f90-262059a69c71)
+
+![Screenshot 2024-03-31 215723](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/3b349c11-7445-4ff2-b3a5-e4cd433e1971)
+
+
+
 
 
 
