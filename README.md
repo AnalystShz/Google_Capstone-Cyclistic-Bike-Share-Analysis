@@ -129,6 +129,21 @@ Tableau
 #### *Analyse*
 
 
+Firstly, We have analysed the pattern of usage between Annual Members and Casual Riders. Currently, there are three pricing plans in place: single-ride passes, full-day passes, and annual memberships.
+Customers who purchase single-ride or full-day passes are referred to as casual riders.
+
+
+Customers who purchase annual memberships are Cyclistic members. The comparison of the bar chart reveals that Annual Members have commuted most throughout the week which gives us an indication they use the bikes as a mode to commute to work and leisure. There is a dip on Sundays ride count and an increase from Wednesday to Friday.
+
+On the right side of the visual we have the daily ride count of Casual Riders. It is obvious that they prefer to ride mostly on Saturday. The riders in this category prefers to use the service more during the weekend but few commuters have utilized it even during weekdays.
+![Screenshot 2024-03-31 212319](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/d00646b5-af76-490d-b05b-1b16ce3fc27d)
+
+
+
+
+Observing the commute rides on a monthly basis for the two user categories displays the busiest months as July, August and September. The comparison of the monthly figures reveal that the Annual Members prefer to commute using Cyclistic Bikes *than* Casual Riders. 
+
+![Screenshot 2024-03-31 192450](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/3c7b8092-fa31-453e-8cda-ff33d3ff9193)
 
 
 
