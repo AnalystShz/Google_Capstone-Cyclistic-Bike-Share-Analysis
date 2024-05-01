@@ -129,13 +129,13 @@ Tableau
 #### *Analyse*
 
 
-- Firstly, We have analysed the pattern of usage between Annual Members and Casual Riders. Currently, there are three pricing plans in place: single-ride passes, full-day passes, and annual memberships.
-Customers who purchase single-ride or full-day passes are referred to as casual riders.
-
-
-Customers who purchase annual memberships are Cyclistic members. The comparison of the bar chart reveals that Annual Members have commuted most throughout the week which gives us an indication they use the bikes as a mode to commute to work and leisure. There is a dip on Sundays ride count and an increase from Wednesday to Friday.
-
-On the right side of the visual we have the daily ride count of Casual Riders. It is obvious that they prefer to ride mostly on Saturday. The riders in this category prefers to use the service more during the weekend but few commuters have utilized it even during weekdays.
+1. Annual Members use the bike-share service consistently throughout the week.
+2. The highest number of rides per day for Annual Members is Wednesday. Thursday and Friday are the next two popular days.
+3. The lowest figures of rides displayed per day for Annual Members is Sunday.
+4. Annual Members cycle on Weekdays than Weekends.
+5. The bar chart displays that Casual riders cycle mostly during the weekend as Saturday having the highest figures of rides on a per day basis.
+6. Casual Riders cycle less throughout the five week days with Tuesday having the lowest count of rides per day.
+7. Cycling is popular amongst Casual riders mostly for fun and leisure.
 
 
 ![Screenshot 2024-03-31 212319](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/7a1df75b-f076-4db8-ac3f-6320c981a201)
@@ -143,10 +143,16 @@ On the right side of the visual we have the daily ride count of Casual Riders. I
 
 
 
-
-- Secondly, Observing the commute rides on a monthly basis for the two user categories displays the busiest months as July, August and September. The comparison of the monthly figures reveal that the Annual Members prefer to commute using Cyclistic Bikes *than* Casual Riders. 
+1. Annual members cycle most from June to November.
+2. The monthly ride count for Annual Members indicates as April being the least popular month and August being the most popular month. 
+3. There is a peak in cycle hires in the summer season.
+  
 
 ## ![Screenshot 2024-03-31 220346](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/9d9d4771-1d9b-4e94-87f2-7b3c4b57a563)
+
+
+1. Casual riders hire the most bikes from May to November with a significant dip in service usage in the remaining months of the year.
+2. The most popular month for Casual riders to hire Cyclistic bikes is August with July and September being the next two most popular months respectively.
 ## ![Screenshot 2024-03-31 220501](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/4f5ace15-2f46-43fc-8efd-fd7136856154)
 
 
