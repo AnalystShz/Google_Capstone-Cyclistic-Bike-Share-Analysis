@@ -128,6 +128,19 @@ Tableau
 
 ### *Analyse*
 
+In this step, I analyzed the cleaned data to find out how annual members and casual riders use Cyclistic bikes differently.
+ 
+First, I calculated the total number of bikes hired and established how they were shared between casual riders and member riders. Next, I examined how total bike hires were distributed per month, per day and per hour, taking into account the different types of bikes available. This revealed some interesting trends that I shall discuss in the share stage.
+ 
+Next, I examined the count of bike hires between the two types of rider categories compared in a given month of the year and day of the week. The goal at this point was to find out whether casual riders had a preference for certain days or months compared with member riders.
+
+Then, I intended to compare the difference in average ride length between casual riders and member riders. I discovered that casual riders tend to ride for longer periods of time compared to member riders. I was intrigued and decided to explore how the average ride length compares for both rider categories on daily and monthly basis.
+
+Finally I compared how the type of bike hired compared between the two rider categories.
+
+
+### *Share*
+
 
 #### 1. Annual Members use the bike-share service consistently throughout the week.
 #### 2. The highest number of rides per day for Annual Members is Wednesday. Thursday and Friday are the next two popular days.
@@ -140,6 +153,8 @@ Tableau
 
 ![Screenshot 2024-03-31 212319](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/7a1df75b-f076-4db8-ac3f-6320c981a201)
 ***********************************
+***********************************
+
 
 
 #### 1. Annual members cycle most from June to November.
@@ -153,9 +168,8 @@ Tableau
 #### 1. Casual riders hire the most bikes from May to November with a significant dip in service usage in the remaining months of the year.
 #### 2. The most popular month for Casual riders to hire Cyclistic bikes is August with July and September being the next two most popular months respectively.
  ![Screenshot 2024-03-31 220501](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/4f5ace15-2f46-43fc-8efd-fd7136856154)
-
 ***********************************
-
+***********************************
 
 #### 1. Here, we have established that the busiest months for hiring cycles are July, August and September.
 #### 2. The ride count for every hour is visualised taking into accounthe 24 hours in a normal day.
@@ -167,7 +181,7 @@ Tableau
  
 ![Screenshot 2024-03-31 193153](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/b1500598-2068-44ff-b78b-f321f878daff)
 ***********************************
-
+***********************************
 #### 1. This line chart visualises the personal bike type preference of Annual Members.
 #### 2. The favourite option is the docked bike however there are riders opting for the other two options available such as electric bike and classic bikes.
 ![Screenshot 2024-04-01 131754](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/e6cb94d0-cc7a-485c-af0e-e0bd0c9c1138)
@@ -177,26 +191,38 @@ Tableau
 #### 1. Docked bikes are the favourite choice of Casual riders. 
 #### 2. They hire the most docked bikes at 5pm.
 ![Screenshot 2024-04-01 131641](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/23972051-c826-47d2-9c68-4e8b5721928e)
+***********************************
+***********************************
 
-
-
+#### 1. Comparing the two rider categories we could establish that there are more Annual Members than Casual Riders.
 
 ![Screenshot 2024-03-31 213515](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/fe059ba6-1542-40ff-b19a-4a41b00cca00)
+***********************************
+***********************************
 
-
-![Screenshot 2024-03-31 213007](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/da9b5416-2764-4091-bb9a-adb5bab60126)
-![Screenshot 2024-03-31 213051](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/f14ae1bc-f994-414e-aaeb-bbcd645d2730)
-
+#### The top 10 commutes trips by Casual riders
 ![Screenshot 2024-04-01 124917](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/d14987da-5d7c-4a9b-b27d-957abe56e88c)
-
+***********************************
+***********************************
+#### The most commuted start and end stations by Annual Members and Casual Riders.
 ![Screenshot 2024-03-31 215921](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/2b4b9f0a-b3d5-4b44-9f90-262059a69c71)
 
 ![Screenshot 2024-03-31 215723](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/3b349c11-7445-4ff2-b3a5-e4cd433e1971)
 
+***********************************
+***********************************
 
 
+### *Act*
 
+My key business task was to reveal how Annual Members and Casual Riders used Cyclistic bikes differently. Through my finidings it was established that Annual Members use Cyclistic bikes as a mode to commute to/from work on  a daily basis. They preferred commuting from work on their return home rather than commuting to work in the morning hours. There was a decrease in rides during the weekends in comparison to weekdays however the most popular type of bike all throughout was the docked bike regardless on the day or time. It is also important to note that even if they have purchased annual membership the accumilation of the bike hire service is weather dependant.
 
+When it comes to Casual Riders they did not see Cyclistic bikes as a very popular mode of transportaion on weekdays rather they utilized the service on Saturdays and Sundays. Docked bikes were the most favourite type of the three given options; docked bike, Electric bike and casual bike.
+
+#### 1. Casual riders and Annual Member had an increase of usage during the Summer season.
+#### 2. Annual members mostly utilized the service on weekdays whereas Casual Riders used cyclistic bikes mostly on weekends.
+#### 3. We currently have more Annual Members than Casual riders and we can conclude that depending on their interest to commute to work and the usage requirement per week, riders purchase the Annual Membership.
+#### 4. Casual Riders do not feel there is a significant importance of purchasing the Annual Membership due to less usage of the service.
 
 
 
