@@ -139,7 +139,7 @@ Tableau
 
 
 ![Screenshot 2024-03-31 212319](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/7a1df75b-f076-4db8-ac3f-6320c981a201)
-
+***********************************
 
 
 #### 1. Annual members cycle most from June to November.
@@ -148,13 +148,13 @@ Tableau
   
 
  ![Screenshot 2024-03-31 220346](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/9d9d4771-1d9b-4e94-87f2-7b3c4b57a563)
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #### 1. Casual riders hire the most bikes from May to November with a significant dip in service usage in the remaining months of the year.
 #### 2. The most popular month for Casual riders to hire Cyclistic bikes is August with July and September being the next two most popular months respectively.
  ![Screenshot 2024-03-31 220501](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/4f5ace15-2f46-43fc-8efd-fd7136856154)
 
-
+***********************************
 
 
 #### 1. Here, we have established that the busiest months for hiring cycles are July, August and September.
@@ -166,8 +166,16 @@ Tableau
 #### 7. Both rider categories prefer using this mode of transportation in the evenings.
  
 ![Screenshot 2024-03-31 193153](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/b1500598-2068-44ff-b78b-f321f878daff)
+***********************************
 
+#### 1. This line chart visualises the personal bike type preference of Annual Members.
+#### 2. The favourite option is the docked bike however there are riders opting for the other two options available such as electric bike and classic bikes.
 ![Screenshot 2024-04-01 131754](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/e6cb94d0-cc7a-485c-af0e-e0bd0c9c1138)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#### 1. Docked bikes are the favourite choice of Casual riders. 
+#### 2. They hire the most docked bikes at 5pm.
 ![Screenshot 2024-04-01 131641](https://github.com/AnalystShz/Google_Capstone-Cyclistic-Bike-Share-Analysis/assets/168277622/23972051-c826-47d2-9c68-4e8b5721928e)
 
 
