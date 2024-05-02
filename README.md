@@ -219,11 +219,44 @@ My key business task was to reveal how Annual Members and Casual Riders used Cyc
 
 When it comes to Casual Riders they did not see Cyclistic bikes as a very popular mode of transportaion on weekdays rather they utilized the service on Saturdays and Sundays. Docked bikes were the most favourite type of the three given options; docked bike, Electric bike and casual bike.
 
-#### 1. Casual riders and Annual Member had an increase of usage during the Summer season.
-#### 2. Annual members mostly utilized the service on weekdays whereas Casual Riders used cyclistic bikes mostly on weekends.
-#### 3. We currently have more Annual Members than Casual riders and we can conclude that depending on their interest to commute to work and the usage requirement per week, riders purchase the Annual Membership.
-#### 4. Casual Riders do not feel there is a significant importance of purchasing the Annual Membership due to less usage of the service.
+#### Data Analysis Suggestions for Cyclistic Bike Share
 
+- 1. Seasonal Analysis:
+
+Observation: Both Casual riders and Annual Members show an increase in usage during the Summer season.
+Recommendation: Further investigate the factors contributing to this seasonal trend, such as weather patterns, tourist influx, or promotional activities during summer months. Tailor marketing efforts or service adjustments to capitalize on increased summer usage.
+
+
+- 2. Usage Patterns:
+
+Observation: Annual Members predominantly utilize the service on weekdays, while Casual Riders favor weekends.
+Recommendation: Develop targeted marketing strategies or incentives to encourage Casual Riders to use the service on weekdays. This could include weekend-specific promotions or packages to attract this demographic during their preferred time frames.
+
+
+- 3. Membership Preferences:
+
+Observation: There are more Annual Members than Casual riders.
+Recommendation: Investigate the reasons behind the disparity in membership numbers. Conduct surveys or interviews to understand the factors influencing individuals' decisions to purchase Annual Memberships versus using the service casually. Consider offering flexible membership options or benefits tailored to different usage patterns and preferences.
+
+
+- 4. Commuting Behavior:
+
+Observation: Annual Members may be more inclined to purchase memberships based on their interest in commuting to work.
+Recommendation: Explore ways to enhance the value proposition of Annual Memberships for commuters, such as integrating additional features or services that cater to their specific needs, such as priority access during peak commuting hours or designated parking areas near workplaces.
+
+
+- 5. Customer Perception:
+
+Observation: Casual Riders may perceive less importance in purchasing Annual Memberships due to their lower usage frequency.
+Recommendation: Conduct market research to better understand Casual Riders' perceptions and preferences regarding membership options. Consider adjusting pricing tiers or introducing pay-as-you-go options to better accommodate their usage patterns and align with their perceived value of the service.
+
+
+- 6. Long-term Engagement:
+
+Recommendation: Implement retention strategies aimed at both Annual Members and Casual Riders to foster long-term engagement with the bike share service. This could include loyalty programs, personalized recommendations based on usage history, or community events to build a sense of belonging among members.
+Conclusion:
+
+By analyzing seasonal trends, usage patterns, and membership preferences, Cyclistic Bike Share can tailor its services and marketing efforts to better meet the diverse needs of both Annual Members and Casual Riders. By understanding the motivations behind membership choices and usage behaviors, the company can optimize its offerings to enhance customer satisfaction and retention.
 
 
 
